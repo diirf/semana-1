@@ -48,6 +48,23 @@
 - Ingeniero de Telecomunicaciones _(Universidad de Carabobo, Venezuela)_
 ---
 
+### Comandos de la terminal aprendidos en la clase 1
+|Comando| Descripción                                                       |
+|-------|-------------------------------------------------------------------|
+| ls    | listar archivos y directorios                                     |
+| cd    | cambiar de directorio                                             |
+| mv    | mover o renombrar un archivo                                      |
+| date  | fecha y hora actual del sistema                                   |
+| pwd   | ruta absoluta del directorio de trabajo actual                    |
+| grep  | busca palabras o patrones dentro de un fichero o entrada de datos |
+
+### Alias útiles
+| Alias     | Comando                       | Descripción                           |
+|-----------|-------------------------------|---------------------------------------|
+| ports     | alias ports="netstat -tulanp" | muestra los puertos abiertos          |
+| del       | alias del="rm -i"             | borrar ficheros con confirmación      |
+| descomp   | alias descomp='tar -zxvf'     | descomprimir fichero .tar             |
+
 ✉️ https://github.com/diirf
 
 ---
